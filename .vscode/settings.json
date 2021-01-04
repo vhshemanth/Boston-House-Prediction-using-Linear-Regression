@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\vhshe\\anaconda3\\envs\\boston\linear\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.banditEnabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.linting.flake8Enabled": false
+}
